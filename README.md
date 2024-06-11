@@ -2,7 +2,9 @@
 
 
 ## core concept: decentralized intellectrual collaboration
-## people
+
+
+# people
 There are three levels of permissions to a project (classic) for people and teams:
 
    * Read, which gives people permission to view a project (classic).
@@ -10,23 +12,26 @@ There are three levels of permissions to a project (classic) for people and team
    * Admin, which gives people permission to view a project (classic), interact with a project (classic), manage project (classic) settings, and manage other people's access to the project (classic).
 
 Organization owners and people with admin permissions can give a person access to an organization project (classic) individually, as an outside collaborator or organization member, or through their membership in a team or organization. An outside collaborator is someone who is not an organization member but given permissions to collaborate in your organization.
-### owner
+## owner
 should we have 
-### creater
-### commiter
+## commiter
 
-## content
-### copyright
+# content
+## copyright
 
-### document
-markdown
+## document
+Everything is a file!
 
-### blob
+## blob
 binary large object
-### webpage
+## webpage
+## tag
+## release
 
-## workflow
-### issue
-### status
-### 
+## issue
+## repository
+
+# workflow
+## issue
+## status
 
