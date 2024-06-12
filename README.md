@@ -52,13 +52,15 @@ Example: https://creativecommons.org/public-domain/cc0/
 
 ![Screenshot from 2024-06-11 19-07-54](https://github.com/yuqiulin2022/opencall2024/assets/120733017/5913630a-804b-43b8-902b-bb26f7eae2da)
 # workflow
-![Screenshot from 2024-06-12 19-55-00](https://github.com/yuqiulin2022/opencall2024/assets/120733017/f9ade0cc-0f55-4368-b5c2-c6fb05448fd4)
+![Screenshot from 2024-06-12 20-03-13](https://github.com/yuqiulin2022/opencall2024/assets/120733017/caddf835-5f30-40ee-96f9-a9fd18aa249b)
+
 
 ## project
 ![Screenshot from 2024-06-12 19-55-00](https://github.com/yuqiulin2022/opencall2024/assets/120733017/c2476237-d390-4147-b11b-eaeedf8dcbb0)
 
 ## issue
-![Screenshot from 2024-06-12 19-55-00](https://github.com/yuqiulin2022/opencall2024/assets/120733017/54cc0a48-7af4-4c1e-aeec-1328cd86c4fe)
+![Screenshot from 2024-06-12 19-58-09](https://github.com/yuqiulin2022/opencall2024/assets/120733017/ccc11ab7-6d6f-47e0-8d70-b2e25d212993)
+
 
 ## discussion
 ![Screenshot from 2024-06-12 19-55-00](https://github.com/yuqiulin2022/opencall2024/assets/120733017/c2757df0-3ca8-4498-9e80-bb959aeef624)
