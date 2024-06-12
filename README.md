@@ -1,4 +1,7 @@
-# Github for the non-IT crowd hhhhhhhhhhhhhhhhhhhhhhhhhhhh
+# Github for the non-IT crowd hhhhhhhhhhhhhhh
+![Screenshot from 2022-12-18 16-49-57](https://github.com/yuqiulin2022/opencall2024/assets/120733017/14d032f3-bbef-4964-a5a7-c920f4b3c56f)
+
+
 ![git](https://github.com/yuqiulin2022/opencall2024/assets/120733017/8eb6c7b8-6672-403a-a9e9-57fc0312cad8)
 
 1. avoid over engineering
