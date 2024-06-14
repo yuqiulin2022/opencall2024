@@ -1,7 +1,4 @@
-# Github for the non-IT crowd hhhhhhhhhhhhhhh
-![Screenshot from 2022-12-18 16-49-57](https://github.com/yuqiulin2022/opencall2024/assets/120733017/14d032f3-bbef-4964-a5a7-c920f4b3c56f)
-
-![Screenshot from 2022-12-18 16-49-50](https://github.com/yuqiulin2022/opencall2024/assets/120733017/82dba329-207e-4b60-b2c3-532252bbaad6)
+# Github for the non-IT crowd 
 
 ![git](https://github.com/yuqiulin2022/opencall2024/assets/120733017/8eb6c7b8-6672-403a-a9e9-57fc0312cad8)
 
